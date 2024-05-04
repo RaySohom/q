@@ -14,7 +14,7 @@ a {
   color: #1772d0;
   text-decoration: none;
   font-family: 'Gill Sans', Verdana, Helvetica, sans-serif;
-  font-display: auto;
+  /* font-display: auto; */
 }
 
 a:focus,
@@ -39,13 +39,13 @@ tr,
 p {
   font-family: 'Gill Sans', Verdana, Helvetica, sans-serif;
   font-size: $font-size-normal;
-  font-display: auto;
+ /* font-display: auto;*/
 }
 
 strong {
   font-family: 'Gill Sans', Verdana, Helvetica, sans-serif;
   font-size: $font-size-normal;
-  font-display: auto;
+  /*font-display: auto;*/
   font-weight: bold;
 }
 
@@ -63,7 +63,7 @@ h3 {
   font-family: 'Gill Sans', Verdana, Helvetica, sans-serif;
   font-size: $font-size-normal;
   font-weight: 700;
-  font-display: auto;
+  /*font-display: auto;*/
   padding: 0px;
   margin: 0px;
   display:inline; 
