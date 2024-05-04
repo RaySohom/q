@@ -1,19 +1,17 @@
 ---
-title:  "Another title of the publication"
-date:   2021-07-12 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong>John Doe</strong>"
+title:  "Homogenization of fault frictional properties"
+author: "Sohom Ray and Robert C. Viesca"
 venue: "Venue"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Another title of the publication},
-    year = {2021}
+  @article{ray2019homogenization,
+  title={Homogenization of fault frictional properties},
+  author={Ray, Sohom and Viesca, Robert C},
+  journal={Geophysical Journal International},
+  volume={219},
+  number={2},
+  pages={1203--1211},
+  year={2019},
+  publisher={Oxford University Press}
   }
-links:
-  code: https://github.com/vsimkus/academic-jekyll
 ---
 Brief description of another project.
