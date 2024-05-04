@@ -1,7 +1,7 @@
 ---
 title:  "Earthquake nucleation on faults with heterogeneous frictional properties, normal stress"
 author: "Sohom Ray and Robert C. Viesca"
-bib:
+bib: |
 @article{ray2017earthquake,
   title={Earthquake nucleation on faults with heterogeneous frictional properties, normal stress},
   author={Ray, Sohom and Viesca, Robert C},
