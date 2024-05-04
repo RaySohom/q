@@ -1,17 +1,16 @@
 ---
-title:  "Title of the publication"
-date:   2021-07-13 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>John Doe</a></strong>"
-venue: "Venue"
+title:  "Earthquake nucleation on faults with heterogeneous frictional properties, normal stress"
+author: "Sohom Ray and Robert C. Viesca"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Title of the publication},
-    year = {2021}
-  }
+@article{ray2017earthquake,
+  title={Earthquake nucleation on faults with heterogeneous frictional properties, normal stress},
+  author={Ray, Sohom and Viesca, Robert C},
+  journal={Journal of Geophysical Research: Solid Earth},
+  volume={122},
+  number={10},
+  pages={8214--8240},
+  year={2017},
+  publisher={Wiley Online Library}
+}
 ---
 Brief description of the project.
