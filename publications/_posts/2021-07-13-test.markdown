@@ -2,7 +2,7 @@
 title:  "Earthquake nucleation on faults with heterogeneous frictional properties, normal stress"
 author: "Sohom Ray and Robert C. Viesca"
 bib: |
-@article{ray2017earthquake,
+  @article{ray2017earthquake,
   title={Earthquake nucleation on faults with heterogeneous frictional properties, normal stress},
   author={Ray, Sohom and Viesca, Robert C},
   journal={Journal of Geophysical Research: Solid Earth},
@@ -11,6 +11,6 @@ bib: |
   pages={8214--8240},
   year={2017},
   publisher={Wiley Online Library}
-}
+  }
 ---
 Brief description of the project
