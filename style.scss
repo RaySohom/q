@@ -51,7 +51,7 @@ strong {
 
 h2 {
   font-family: 'Gill Sans', Verdana, Helvetica, sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.00rem;
   font-display: auto;
   font-weight: normal;
   padding: 0px;
@@ -62,7 +62,7 @@ h2 {
 h3 {
   font-family: 'Gill Sans', Verdana, Helvetica, sans-serif;
   font-size: $font-size-normal;
-  font-weight: 700;
+  font-weight: 300;
   /*font-display: auto;*/
   padding: 0px;
   margin: 0px;
@@ -71,9 +71,9 @@ h3 {
 
 h1 {
   font-family: 'Gill Sans', Verdana, Helvetica, sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: normal;
-  font-display: auto;
+  /*font-display: auto;*/
   text-align: center;
   padding: 0px;
   margin-block-start: 10px;
