@@ -1,52 +1,95 @@
-name: "Sohom Ray"
-occupation: "Assistant Professor"
-research_interests:
-  - "Mathematical modeling of physical processes"
-  - "Earthquake physics"
-  - "Fracture mechanics"
-  - "Nonlinear dynamics"
-  - "Numerical methods"
-education_and_employment:
-  - "2019-Present: Assistant Professor, Department of Earthquake Engineering, IIT Roorkee"
-  - "2019-Present: Assistant Professor, Mehta Family School of Data Science and Artificial Intelligence, IIT Roorkee"
-  - "2013-2019: Research/Teaching Assistant at Tufts University"
-  - "2008-11: Masters (Geophysics) IIT Roorkee"
-  - "2005-08: Bachelors (Physics) Delhi University"
-research_interest:
-  - "Physics of frictional sliding and its relevance to geological faults"
-  - "Mathematical modelling in the field of tectonophysics and seismology"
-  - "Nonlinear dynamics and partial differential equations"
-  - "Numerical and approximate solution of partial differential equations"
-  - "Solid and fracture mechanics and their relevance to (many ways of) slip on geological faults"
-grants:
-  - "Faculty Initiation Grant, IIT Roorkee. INR 20 Lakhs. Spatially disordered slip prior to ordered dynamic rupture"
-reviewer:
-  - "Nature Communications"
-  - "Journal of Geophysical Research: Solid Earth"
-education:
-  - "Ph.D. (thesis on earthquake physics), Civil and Envir. Eng., Tufts Univ., Massachusetts, USA (Sept. ’13-Aug. ’19)"
-  - "M.Tech. in Applied Geophysics, Earth Sciences, IIT Roorkee (2008-11)"
-  - "B.Sc. in Physics (Hons.), Hindu College, Delhi University (2005-08)"
-achievements:
-  - "William Edgerton Fellowship (2013-14), School of Engineering, Tufts University"
-  - "Merit-cum-Means Scholarship (2008-11), Indian Institute of Technology, Roorkee"
-  - "All India Rank-56 with Percentile-98.73 at JEST-PHYSICS* (2008)"
-  - "All India Rank-04 at IIT-JAM* GEOPHYSICS (2008)"
-  - "All India Rank-41 at IIT-JAM* PHYSICS (2008)"
-  - "*JAM is Joint Admission to Masters at Indian Institutes of Technology (IITs). **JEST is Joint Entrance Screening Test for PhD positions in research institutes of India."
-publications:
-  - title: "When heterogeneities promote disordered slip"
-    description: |
-      "Here, I explore the scenarios that can provoke disordered slip evolutions in elasto-frictional interfaces. I find that faults that include rate-strengthening regions can lack attractive blow-up solutions. In such scenarios, a rate-weakening fault that includes appropriate rate-strengthening regions can delay the development of slip instabilities. Owed to the non-existence of attractive blow-up solutions, the developing slip velocity fails to converge to a specific distribution at a single location. The near-chaotic transient dynamics may give rise to tremor-like activities."
-  - title: "Many ways of interfacial sliding: creep propagation on faults and its transition to instability (with Dmitry I. Garagash, Dalhousie Univ.)"
-    description: |
-      "We investigate aseismic creep on model faults. In particular, its propagation to large distances along the fault. This study considers a sliding rate and state dependence of the fault’s frictional strength, with steady-state rate-weakening interfacial properties. The surrounding medium deforms elastically. We find that rate-weakening interfaces can exhibit a stable aseismic sliding over long distances without any stabilizing mechanisms (e.g., dilatant strengthening) or choice of frictional properties that force a large elasto-frictional lengthscale. We propose that creep penetration is due to the fault's tendency, when driven, to reach a state of steady sliding from a locked state. Here, we define the locked state as the state of slip when the velocity is arbitrarily less than the steady-state sliding rate for a given pre-stress."
-  - title: "Earthquake nucleation and frictional heterogeneity (with Robert C Viesca, Tufts Univ.)"
-    description: |
-      "We explored the nonlinear dynamics of earthquake nucleating frictional instabilities. In particular, we explored how frictional heterogeneities influence the development of slip instabilities. [Ray and Viesca, JGR Solid Earth 2017]"
-  - title: "Homogenization of physical properties on faults"
-    description: |
-      "Observations suggest that faults' frictional properties are likely to be non-uniform over its extent. However, studies often consider properties to be homogeneous, or nearly so. Here, we highlight when it may not be appropriate to homogenize the frictional properties. We explore quasistatic slip evolution on faults with simple sinusoidal forms, with a characteristic wavelength of variation Λ, for variation of frictional properties. Interestingly, slip evolutions are almost identical in the limit of very small (highly heterogeneous) and large (almost homogeneous) wavelengths, compared to the nucleation length. Therefore, in the limit of high and low wavelengths of variations, using an average estimate of an otherwise nonuniform strength parameter is appropriate. However, heterogeneity in fault frictional properties, or normal stress, is crucial to earthquake nucleation when Λ is comparable to the nucleation length or an elastofrictional scale. [Ray and Viesca, GJI, 2019]."
-  - title: "Creeping landslides as diffusing slip on rate-strengthening frictional faults (in the works)"
-    description: |
-      "Accelerating creep of landslides could be considered an evolution of slip of a deformable thin elastic layer over a rigid base such that basal friction strengthens with slip rate. We find self-similar solutions of nonlinear slip diffusion under relevant initial conditions of external stress or slip rate. A close analogy could be drawn with Stokes’ first problem wherein a plate below a semi-infinite region of an initially static incompressible fluid is suddenly moved to result in (self-similar) diffusion of momentum. Likewise, we find relevant length scale and nonlinear manner of diffusion of slip rate when a creeping slope is suddenly imposed with high stress or slip rate."
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Sohom Ray
+
+# Short bio or description (displayed in the header)
+Assistant Professor
+# description: the profile of an engineer, researcher and software developer
+Involved in research (earthquake physics) and teaching
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: images/circle_crop.jpg
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github:
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+# excerpt_separator: <!--more-->
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: "https://vsimkus.github.io/academic-jekyll/" # the base hostname & protocol for your site
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+# baseurl: ""
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+#permalink: /:title/
+permalink: /:title/
+
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+      - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+    #  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - command.txt
+  - todo.txt
+  - _temp/index.html
+  - _temp/
