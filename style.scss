@@ -46,13 +46,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 1.5em;
-    border-bottom: 2px solid $primary-color;
-    padding-bottom: 7px;
+    font-size: 1.0em;
+    border-bottom: 1.5px solid $primary-color;
+    padding-bottom: 3px;
 }
 
 h2 {
     font-size: 1em;
+    border-bottom: 1px solid $primary-color;
 }
 
 h3 {
